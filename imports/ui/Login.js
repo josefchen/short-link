@@ -44,6 +44,7 @@ export default class Login extends Component {
                     </form>
 
                 <Link to="/signup">Don't have an account?</Link>
+                <p>by Josef Chen, 2019</p>
             </div>
 
             </div>
